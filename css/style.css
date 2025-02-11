@@ -791,7 +791,7 @@ header .mobile-menu {
 	position: relative;
 	display: inline-block;
 	list-style-type: none;
-	width: 160px;
+	width: 180px;
 	height: 3px;
 	background: #222;
 }
@@ -823,8 +823,8 @@ header .mobile-menu {
 
 .about .timeline ol li>div {
 	position: absolute;
-	left: 18px;
-	width: 300px;
+	left: 28px;
+	width: 320px;
 	font-size: 1rem;
 	white-space: normal;
 	background: #222;
